@@ -2,7 +2,8 @@
 
 ## Overview
 
-This project performs binary sentiment classification on the IMDB Movie Reviews dataset using Natural Language Processing (NLP) and a Recurrent Neural Network (RNN) implemented in PyTorch. The workflow includes text preprocessing, TF-IDF vectorization, model training, and sentiment prediction.
+This project performs binary sentiment classification on the IMDB Movie Reviews dataset using Natural Language Processing (NLP) and a Recurrent Neural Network (RNN) implemented in PyTorch. The workflow includes text preprocessing, TF-IDF vectorization, model training, and sentiment prediction and Implemented TF IDF Mode
+.
 
 ---
 
@@ -28,6 +29,8 @@ This project performs binary sentiment classification on the IMDB Movie Reviews 
 - Recurrent Neural Network (RNN)
 - Binary Sentiment Classification
 - Model evaluation
+- Implemented TF IDF model
+- Model Evaluation
 
 ---
 
@@ -53,6 +56,8 @@ This project performs binary sentiment classification on the IMDB Movie Reviews 
 7. Build an RNN model
 8. Train the model using Binary Cross Entropy Loss
 9. Evaluate model performance
+10. Build an TF IDF model
+11. Evaluate model performance
 
 ---
 
