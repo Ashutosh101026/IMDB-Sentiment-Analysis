@@ -1,4 +1,4 @@
-# IMDB Sentiment Analysis using RNN (PyTorch)
+# IMDB Sentiment Analysis using RNN (PyTorch) And TF IDF Model
 
 ## Overview
 
