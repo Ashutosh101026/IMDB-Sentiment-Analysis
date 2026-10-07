@@ -54,44 +54,14 @@ This project performs binary sentiment classification on the IMDB Movie Reviews 
 5. Split dataset into training and testing sets
 6. Create PyTorch Dataset and DataLoader
 7. Build an RNN model
-8. Train the model using Binary Cross Entropy Loss
+8. Train the model using BCEWithLogitsLoss
 9. Evaluate model performance
 10. Build an TF IDF model
-11. Evaluate model performance
+11. Train the model using BCEWithLogitsLoss
+12. Evaluate model performance
 
 ---
 
-## Model Architecture
-
-Input Text
-
-↓
-
-TF-IDF Vectorization
-
-↓
-
-RNN Layer
-
-↓
-
-Fully Connected Layer
-
-↓
-
-Sigmoid Activation
-
-↓
-
-Positive / Negative Prediction
-
----
-
-## Results
-
-The model successfully classifies movie reviews into positive and negative sentiments using a custom RNN architecture built with PyTorch.
-
----
 
 ## Future Improvements
 
