@@ -78,6 +78,10 @@ This project performs binary sentiment classification on the IMDB Movie Reviews 
 
 ---
 
+## Results
+1. RNN model Accuracy =
+2. TF IDF model Accuracy =
+
 ## Author
 
 Ashutosh Mehta
