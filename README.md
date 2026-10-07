@@ -79,8 +79,8 @@ This project performs binary sentiment classification on the IMDB Movie Reviews 
 ---
 
 ## Results
-1. RNN model Accuracy =
-2. TF IDF model Accuracy =
+1. RNN model Accuracy = 87.59%
+2. TF IDF model Accuracy = 90.16%
 
 ## Author
 
